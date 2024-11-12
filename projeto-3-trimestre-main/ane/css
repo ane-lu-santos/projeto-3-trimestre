@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+:root{
+    --cor-principal: purple;
+--cor-secundaria: pink;
+--cor-destaque: black;
+
+}
+body{
+    font-family: "rubik wet paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+h2, h2, h5{
+    color:var(--cor-secundaria);
+    font-weight: 700;
+}
+footer a{
+    color:var(--cor-principal);
+}
+footer a:hover{
+    color:var(--cor-destaque);
+}
