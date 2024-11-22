@@ -26,50 +26,8 @@
  <div class="col-md-4">
  <div class="card">
   <img src="img/parasita" class="card-img-top" alt>
-  <div class="card-body"><h5 class="card-title">Card title</h5>
-    <p class="card-text">
-      eiijseoiujeplsepie0tep
-    </p>
-    <a href="#" class="btn btn-primary"> go hyfiuiguyt8r</a>
-</div>
 </div>
 </div>
 </div>
   </main>
-  <main class="container">
-    <div class="row">
-    <div class="col-md-4">
-    <div class="card">
-     <img src="img/parasita" class="card-img-top" alt>
-     <div class="card-body"><h5 class="card-title">Card title</h5>
-       <p class="card-text">
-         eiijseoiujeplsepie0tep
-       </p>
-       <a href="#" class="btn btn-primary"> go hyfiuiguyt8r</a>
-   </div>
-   </div>
-   </div>
-   </div>
-     </main>
-     <main class="container">
-      <div class="row">
-      <div class="col-md-4">
-      <div class="card">
-       <img src="img/parasita" class="card-img-top" alt>
-       <div class="card-body"><h5 class="card-title">Card title</h5>
-         <p class="card-text">
-           eiijseoiujeplsepie0tep
-         </p>
-         <a href="#" class="btn btn-primary"> go hyfiuiguyt8r</a>
-     </div>
-     </div>
-     </div>
-     </div>
-       </main>
-       <div class="modal" id="modal1" tabindex="-1">
-        <div class="modal-dialog">
-          <div class="modal-content"></div>
-
-        </div>
-       </div>
 </html>
